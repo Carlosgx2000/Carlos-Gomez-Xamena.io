@@ -31,9 +31,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+  - text: "No voy en tren. Voy en avión."
+  - text: "No necesito a nadie alrededor"
+me-img: "/img/condor.jpg"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
@@ -106,7 +106,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
+  "Carlos Gòmez es una persona increible!. He lives in Flatland, where he works on two-dimensional
   engineering projects. In his spare time, John likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 ##################
